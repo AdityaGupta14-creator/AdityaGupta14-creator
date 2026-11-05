@@ -52,15 +52,16 @@ A project exploring quantum machine learning with practical implementation and f
 
 <!-- ================= GITHUB STATS ================= -->
 
+#
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AdityaGupta14-creator&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +71,7 @@ A project exploring quantum machine learning with practical implementation and f
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AdityaGupta14-creator/AdityaGupta14-creator/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -83,7 +84,7 @@ A project exploring quantum machine learning with practical implementation and f
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/AdityaGupta14-creator">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>

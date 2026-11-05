@@ -45,11 +45,15 @@ A project exploring quantum machine learning with practical implementation and f
 
 ---
 
-## 📊 GitHub Statistics
+
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta14-creator&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta14-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -58,13 +62,12 @@ A project exploring quantum machine learning with practical implementation and f
 
 ---
 
-## 🐍 Contribution Activity
+<h2>🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaGupta14-creator/AdityaGupta14-creator/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AdityaGupta14-creator/AdityaGupta14-creator/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 

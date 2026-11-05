@@ -46,21 +46,17 @@ A project exploring quantum machine learning with practical implementation and f
 ---
 
 
-<h2>📊 GitHub Statistics</h2>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta14-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile/streak.svg" width="65%" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaGupta14-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <h2>🐍 Contribution Activity</h2>
 

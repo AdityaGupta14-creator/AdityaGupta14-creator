@@ -1,6 +1,4 @@
 
-<!-- ================= HEADER ================= -->
-
 <h1 align="center">Hi, I'm Aditya Gupta 👋</h1>
 
 <p align="center">
@@ -8,12 +6,10 @@
 </p>
 
 <p align="center">
-  <em>Building practical software, exploring new technologies, and learning by creating.</em>
+  Building practical software, exploring new technologies, and learning by creating.
 </p>
 
 ---
-
-<!-- ================= ABOUT ================= -->
 
 ## 👨‍💻 About Me
 
@@ -25,48 +21,42 @@
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,git,github,html,css&perline=7" alt="Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,git,github,html,css&perline=7" alt="Tech Stack" />
 </p>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
 ### 🔹 VERITY — Academic Integrity Engine
+
 An offline-first academic integrity platform that detects textual similarity using exact, fuzzy, and semantic matching.
 
 ### 🔹 Kaktus — Web-Based Hardware IDE
+
 A web-based hardware development environment designed to simplify component selection, circuit building, and Arduino workflows.
 
 ### 🔹 Q-Sentinel — Quantum Machine Learning
+
 A project exploring quantum machine learning with practical implementation and fallback handling.
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-#
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGupta14-creator&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta14-creator&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaGupta14-creator&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AdityaGupta14-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
-<!-- ================= CONTRIBUTIONS ================= -->
 
 ## 🐍 Contribution Activity
 
@@ -76,34 +66,17 @@ A project exploring quantum machine learning with practical implementation and f
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/AdityaGupta14-creator">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <em>Thanks for visiting my profile! ⭐</em>
+  Thanks for visiting my profile! ⭐
 </p>
-
-<!--
-**AdityaGupta14-creator/AdityaGupta14-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
